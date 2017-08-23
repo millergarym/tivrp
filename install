@@ -1,0 +1,3 @@
+root@raspberrypi:/etc/init.d# sudo update-rc.d tivrp defaults
+root@raspberrypi:/etc/init.d# service tivrp stop
+root@raspberrypi:/etc/init.d# service tivrp start
